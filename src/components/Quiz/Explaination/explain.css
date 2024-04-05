@@ -1,0 +1,59 @@
+.explanation-container {
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .question-explanation {
+    margin-bottom: 20px;
+  }
+  
+  .question-explanation h2 {
+    color: #007bff;
+  }
+  
+  .question-explanation p {
+    margin-bottom: 10px;
+  }
+  
+  .question-explanation a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .question-explanation a:hover {
+    text-decoration: underline;
+  }
+  
+  button {
+    display: block;
+    margin: 20px auto 0;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+
+
+
+
+
+
+
+ 

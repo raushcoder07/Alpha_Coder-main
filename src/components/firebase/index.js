@@ -1,0 +1,1 @@
+export { getAllData } from "./realtimeDb";
